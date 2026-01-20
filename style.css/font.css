@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* shire style */
+.btn{
+    background-color: #FD6E0A;
+    width: 150px;
+    height: 65px;
+    border: none;
+    padding: 35px 18px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    opacity: 100%;
+}
+.open-sans-fon {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+  
+}
+.logo h1{
+    font-size: 45px;
+    font-weight: 900;
+    
+}
+.color-orange {
+    color: #FD6E0A;
+}
+/*main style*/
+header{
+    background-color: #FFF8F3;
+    padding-top: 50px;
+}
+nav {
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.color-orange {
+    color: #FD6E0A;
+}
+nav .manue{
+    display: flex;
+    list-style-type: none;
+    gap: 51px;
+    align-items: center;
+
+}
+nav .manue  a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #474747;
+}
+
+
